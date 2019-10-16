@@ -17,5 +17,5 @@ let b = x.every( item => item >0);
 console.log(b);
 
 console.log("newEvery");
-let a = newEvery(x,  item => item> 0);
-console.log(a);
+let y = newEvery(x,  item => item> 0);
+console.log(y);

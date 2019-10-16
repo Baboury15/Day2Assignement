@@ -8,9 +8,9 @@ const newEach = (arr, callback) => {
 }
 
 //Testing
-let x = [1,2,3];
+let y = [1,2,3];
 function test(e){
     console.log(e*2);
 }
 
-newEach(x, test);
+newEach(y, test);
